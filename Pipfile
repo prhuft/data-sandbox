@@ -8,6 +8,12 @@ matplotlib = "*"
 numpy = "*"
 pandas = "*"
 jupyter = "*"
+gdal = {path = "C:/Users/prest/Downloads/GDAL-3.4.1-cp39-cp39-win_amd64.whl"}
+fiona = {path = "C:/Users/prest/Downloads/Fiona-1.8.21-cp39-cp39-win_amd64.whl"}
+geopandas = "*"
+gmaps = "*"
+rasterio = {path = "C:/Users/prest/Downloads/rasterio-1.2.10-cp39-cp39-win_amd64.whl"}
+contextily = "*"
 
 [dev-packages]
 

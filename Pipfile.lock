@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0a4b96f192d95716fe0ae28c6439d5cefe90f2d5ba09a6bc83adc696c03c84d6"
+            "sha256": "e23a2575ca53c34a9d566052d0666736411d7410a726b3729069808a52e7f5a1"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -217,6 +217,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==4.29.1"
+        },
+        "gdal": {
+            "hashes": [
+                "sha256:2a71538fee55b55cdd3bf62968ad8e919e8b3481badd129c59d4a09d73a159f1",
+                "sha256:b19e8143bc2c0d3e222789a465d82b6874236eb78801aec608bf5c8c44d20fcf"
+            ],
+            "path": "C:/Users/prest/Downloads/GDAL-3.4.1-cp39-cp39-win_amd64.whl",
+            "version": "==3.4.1"
         },
         "ipykernel": {
             "hashes": [
@@ -714,7 +722,7 @@
                 "sha256:0123cacc1627ae19ddf3c27a5de5bd67ee4586fbdd6440d9748f8abb483d3e86",
                 "sha256:961d03dc3453ebbc59dbdea9e4e11c5651520a876d0f4db161e8674aae935da9"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==2.8.2"
         },
         "pytz": {
@@ -834,7 +842,7 @@
                 "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
                 "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==1.16.0"
         },
         "stack-data": {
